@@ -1,0 +1,27 @@
+{
+  "name": "nikhil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhil3389/NodeJs.git"
+  },
+  "keywords": [
+    "nikhil",
+    "code"
+  ],
+  "author": "nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhil3389/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Nikhil3389/NodeJs#readme",
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0"
+  }
+}
