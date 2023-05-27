@@ -1,2 +1,2 @@
-const color  = require('colors');
-console.log("package".red)
+const chalk  =  require('chalk');
+console.log(chalk.blue('Hello world'));
